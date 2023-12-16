@@ -11,3 +11,7 @@ This file contains the code for performing web scraping. First, you need to go t
 You should inspect the element you are interested in. In my case, I focused on the pizzeria name, rating, price, review, and address. I initialized lists for each of these elements and also set up page numbers so that the code could navigate from one page to another.
 
 Next, using the lists, I created a dictionary, and I transformed the dictionary into a data frame. Finally, with the data frame, I exported a CSV file.
+
+## File: celaningdataset
+
+This file contains R commands to effectively structure our database. The manipulations involve extracting the district number from the address, enabling the comparison of average prices for pizzerias in different neighborhoods of Paris.

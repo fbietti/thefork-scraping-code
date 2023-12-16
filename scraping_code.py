@@ -51,6 +51,8 @@ dict = {'Pizzeria':pizzeria,'Ratings':ratings,'Number of Reviews':reviews,'Price
 
 # Create a dataframe.
 pizzerias = pd.DataFrame.from_dict(dict)
+
+# Check your df
 pizzerias.head(10)
 
 

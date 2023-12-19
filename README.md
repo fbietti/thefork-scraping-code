@@ -20,4 +20,4 @@ This file contains R commands to effectively structure our database. The manipul
 
 This file contains an exercise that, if you are a teacher, you can give to your data analysis students. I wrote it in R, but it can be easily translated into Python if you prefer. It starts with some commands to change variable types or find individuals, etc., and continues with recoding and bivariate analyses. I ask students to create tables, formulate hypotheses, test them, and create a graph. The file contains the answers to each question
 
-![Alt text](/Users/bietti/Documents/GitHub/thefork-scraping-code/plots/pizza.png)
+![Alt text]('/Users/bietti/Documents/GitHub/thefork-scraping-code/plots/pizza.png')

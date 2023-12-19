@@ -15,3 +15,7 @@ Next, using the lists, I created a dictionary, and I transformed the dictionary 
 ## File: celaningdataset
 
 This file contains R commands to effectively structure our database. The manipulations involve extracting the district number from the address, enabling the comparison of average prices for pizzerias in different neighborhoods of Paris.
+
+## File: assignmet_pizza_price_paris
+
+This file contains an exercise that, if you are a teacher, you can give to your data analysis students. I wrote it in R, but it can be easily translated into Python if you prefer. It starts with some commands to change variable types or find individuals, etc., and continues with recoding and bivariate analyses. I ask students to create tables, formulate hypotheses, test them, and create a graph. The file contains the answers to each question
